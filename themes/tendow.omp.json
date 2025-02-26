@@ -39,7 +39,7 @@
           "properties": {
             "fetch_upstream_icon": true
           },
-          "template": " {{ .UpstreamIcon }}{{ .HEAD }} ",
+          "template": " {{ .UpstreamIcon }} {{ .HEAD }} ",
           "type": "git"
         },
         {
